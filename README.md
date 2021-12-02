@@ -1,6 +1,8 @@
 # Ocular-Disease-Detection
 Detection of cataract disease using CNN models (vgg19, InceptionV3 and Resnet50)
 
+Dataset - https://www.kaggle.com/andrewmvd/ocular-disease-recognition-odir5k
+
 VGG19
 
 ![image](https://user-images.githubusercontent.com/81555126/144080152-6912e084-bf9c-41f7-8d0d-e16115e93cef.png)
